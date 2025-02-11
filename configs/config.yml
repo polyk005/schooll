@@ -7,3 +7,5 @@ db:
       dbname: "postgres"
       sslmode: "disable"
       password: "-"
+
+Nginx: 
